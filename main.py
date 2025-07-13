@@ -24,7 +24,7 @@ while True:
         print("Chatbot: Goodbye!")
         break
 
-    print("Chatbot:")
+    print("Nirah:")
     try:
         response = chat.send_message(
             user_input,
